@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# macOS
+.DS_Store
+**/.DS_Store
+.zsh_history
+
+# Logs
+*.log
+**/*.log
+
+# Other
+10000
+test.txt
+**/tmp
+
+# Obsidian
+.obsidian/
