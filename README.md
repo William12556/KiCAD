@@ -1,4 +1,4 @@
-# KiCAD
+# KiCAD circuits
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ KiCAD project repository.
 ## Project Structure
 
 ```
-KiCAD/
+circuits/
 ├── README.md
 └── .git/
 ```
