@@ -35,6 +35,16 @@ workspace/ai/
 workspace/proposal/
 workspace/proposal/closed/
 
+# TypeCAD projects
+**/node_modules/
+**/package-lock.json
+**/build/
+**/*.kicad_pcb
+**/*.kicad_pcb-bak
+**/*.net
+**/*.tsbuildinfo
+**/typecad_documentation.txt
+
 # other
 10000
 test.txt
